@@ -16,7 +16,7 @@ sections:
         style: secondary
     align: left
     image: images/royal-sunflower.jpg
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: gray
