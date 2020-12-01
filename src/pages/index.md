@@ -28,9 +28,8 @@ sections:
     features:
       - title: Vision
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          "With a cup of coffee, We would like to serve you contentment in a
+          quiet environment."
         align: left
         image: images/feature.svg
         image_position: right
