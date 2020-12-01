@@ -17,7 +17,7 @@ sections:
     align: left
     image: images/1.jpg
     image_position: left
-    has_background: false
+    has_background: true
     background:
       background_color: gray
       background_image: images/diagonal-lines.svg
