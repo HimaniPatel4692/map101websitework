@@ -16,7 +16,7 @@ sections:
         style: secondary
     align: left
     image: images/1.jpg
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: gray
