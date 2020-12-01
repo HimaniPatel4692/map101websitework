@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: '"Only one location for your perfect cup of coffee and a little bite."'
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We are specially a cafe and offer several kind of coffee and always try to
+      make it most natural coffee beans moreover our food are grown by organic
+      farming so no other fertilizers used by farmers.
     actions:
       - label: Learn More
         url: /features
