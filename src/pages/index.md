@@ -32,7 +32,7 @@ sections:
           "With a cup of coffee, We would like to serve you contentment in a
           quiet environment."
         align: left
-        image: images/feature.svg
+        image: images/20190529191242-GettyImages-753289793.jpeg
         image_position: right
         actions:
           - label: Learn More
