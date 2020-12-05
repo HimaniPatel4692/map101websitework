@@ -15,7 +15,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/oval-kangaroo.jpg
+    image: images/coffee_shop_sign.jpg
     image_position: right
     has_background: true
     background:
