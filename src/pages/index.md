@@ -15,7 +15,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/royal-sunflower.jpg
+    image: images/oval-kangaroo.jpg
     image_position: right
     has_background: true
     background:
