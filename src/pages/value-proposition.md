@@ -1,5 +1,5 @@
 ---
-title: 'value proposition '
+title: value proposition
 excerpt: lorem-ipsum
 template: page
 ---
