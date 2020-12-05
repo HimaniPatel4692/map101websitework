@@ -1,6 +1,6 @@
 ---
 title: Value Proposition
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum
