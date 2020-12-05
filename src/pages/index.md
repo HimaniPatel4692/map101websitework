@@ -38,6 +38,11 @@ sections:
           - label: Learn More
             url: /vision
             style: secondary
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
