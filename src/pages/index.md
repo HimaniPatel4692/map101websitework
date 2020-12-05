@@ -9,7 +9,7 @@ sections:
       farming so no other fertilizers used by farmers.
     actions:
       - label: Learn More
-        url: /features
+        url: /value proposition
         style: primary
       - label: Contact Us
         url: /contact
