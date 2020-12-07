@@ -1,5 +1,7 @@
 ---
-title: Vision
+title: >-
+  With a cup of coffee, We would like to serve you contentment in a quiet
+  environment.
 excerpt: lorem-ipsum
 template: page
 ---
