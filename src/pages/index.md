@@ -58,11 +58,6 @@ sections:
           - label: Learn More
             url: /Strategies
             style: primary
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            new_window: false
-            type: action
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
