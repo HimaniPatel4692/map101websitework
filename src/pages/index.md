@@ -51,18 +51,6 @@ sections:
           digitally among youngsters. It seems easiest and also a cheapest way
           for marketing having a strong facebook and instagram pages with
           attractive food posts and a blog.
-
-
-          This strategy seems reliable to us because without spending huge
-          budget we can expect a good return with this, as we are starters its
-          free to use and it will also help us to increase traffic on our
-          website moreover when it comes to ads we are only paying per click and
-          it also cheaper, and we can also reach out to large customers because
-          nowadays everyone have their social media account and you can target
-          specific group of audience. Positive reviews also helps us to create a
-          good impression on customers.
-
-          > 
         align: left
         image: images/feature.svg
         image_position: left
