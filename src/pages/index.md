@@ -38,7 +38,7 @@ sections:
           - label: Learn More
             url: /vision
             style: secondary
-      - title: "o\tStrategies"
+      - title: Strategies
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
