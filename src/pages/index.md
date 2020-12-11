@@ -57,7 +57,7 @@ sections:
           - label: Learn More
             url: /Strategies
             style: secondary
-        image: images/S.jpg
+        image: images/magnificent-goose.jpg
   - type: blog_feed_section
     title: What's New
     show_recent: true
