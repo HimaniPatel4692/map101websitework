@@ -48,7 +48,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /Strategies
             style: secondary
   - type: blog_feed_section
     title: What's New
