@@ -38,7 +38,7 @@ sections:
           - label: Learn More
             url: /vision
             style: secondary
-      - title: Feature 3
+      - title: "o\tStrategies"
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
