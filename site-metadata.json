@@ -52,12 +52,6 @@
                 "url": "https://github.com/HimaniPatel4692/map101websitework",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "new_window": true
             }
         ],
         "content": "&copy; Stackbit-Starter. All rights reserved.",
