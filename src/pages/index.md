@@ -40,7 +40,7 @@ sections:
             style: secondary
       - title: Strategies
         content: >-
-          While studying latest trend, we personally observe that social media
+          > While studying latest trend, we personally observe that social media
           marketing is one of the most important factor for marketing, to so the
           following we plan to viral a post with food photos and it's
           description on internet. To do that we should have a delicious looking
@@ -52,23 +52,11 @@ sections:
           for marketing having a strong facebook and instagram pages with
           attractive food posts and a blog.
         align: left
-        image: images/curious-avocado.jpg
+        image: images/magnificent-goose.jpg
         image_position: right
         actions:
           - label: Learn More
             url: /Strategies
-            style: primary
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
             style: secondary
   - type: blog_feed_section
     title: What's New
