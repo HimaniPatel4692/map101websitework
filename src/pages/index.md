@@ -40,9 +40,17 @@ sections:
             style: secondary
       - title: Strategies
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          > While studying latest trend, we personally observe that social media
+          marketing is one of the most important factor for marketing, to so the
+          following we plan to viral a post with food photos and it's
+          description on internet. To do that we should have a delicious looking
+          our dishes photos and it's unique explanation. For this we are
+          planning to make a Facebook page, Instagram page and a blog on
+          internet. to do this we will spend some budget from our marketing and
+          hire one marketing person, so it will help us to became more popular
+          digitally among youngsters. It seems easiest and also a cheapest way
+          for marketing having a strong facebook and instagram pages with
+          attractive food posts and a blog.
         align: left
         image: images/feature.svg
         image_position: right
