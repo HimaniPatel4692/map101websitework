@@ -53,7 +53,7 @@ sections:
           attractive food posts and a blog.
         align: left
         image: images/curious-avocado.jpg
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /Strategies
