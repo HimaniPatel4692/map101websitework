@@ -52,8 +52,8 @@ sections:
           for marketing having a strong facebook and instagram pages with
           attractive food posts and a blog.
         align: left
-        image: images/S.jpg
-        image_position: left
+        image: images/curious-avocado.jpg
+        image_position: right
         actions:
           - label: Learn More
             url: /Strategies
