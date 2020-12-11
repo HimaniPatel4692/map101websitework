@@ -57,7 +57,7 @@ sections:
           - label: Learn More
             url: /Strategies
             style: secondary
-        image: images/1.png
+        image: images/S.jpg
   - type: blog_feed_section
     title: What's New
     show_recent: true
