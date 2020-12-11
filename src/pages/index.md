@@ -52,7 +52,7 @@ sections:
           for marketing having a strong facebook and instagram pages with
           attractive food posts and a blog.
         align: left
-        image: images/feature.svg
+        image: images/magnificent-goose.jpg
         image_position: right
         actions:
           - label: Learn More
