@@ -60,7 +60,7 @@ sections:
         image: images/1.png
   - type: blog_feed_section
     title: What's New
-    show_recent: true
+    show_recent: false
     recent_count: 3
   - type: cta_section
     title: This Is A CTA
