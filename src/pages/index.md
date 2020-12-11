@@ -52,12 +52,12 @@ sections:
           for marketing having a strong facebook and instagram pages with
           attractive food posts and a blog.
         align: left
-        image: images/neat-whale.jpg
         image_position: right
         actions:
           - label: Learn More
             url: /Strategies
             style: secondary
+        image: images/1.png
   - type: blog_feed_section
     title: What's New
     show_recent: true
