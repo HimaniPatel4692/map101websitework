@@ -58,10 +58,6 @@ sections:
             url: /Strategies
             style: secondary
         image: images/1.png
-  - type: blog_feed_section
-    title: What's New
-    show_recent: false
-    recent_count: 2
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
