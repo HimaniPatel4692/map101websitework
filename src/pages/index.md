@@ -63,7 +63,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: link
+        style: primary
         new_window: false
         type: action
     has_background: false
