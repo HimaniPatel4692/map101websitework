@@ -64,7 +64,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: primary
-        new_window: false
+        new_window: true
         type: action
     has_background: false
     background_color: white
