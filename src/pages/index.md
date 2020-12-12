@@ -19,11 +19,11 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: white
       background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
+      background_image_opacity: 50
       background_image_size: auto
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
   - type: features_section
     title: ''
     features:
@@ -58,20 +58,16 @@ sections:
             url: /Strategies
             style: secondary
         image: images/1.png
-  - type: blog_feed_section
-    title: What's New
-    show_recent: false
-    recent_count: 3
-  - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
     actions:
-      - label: Learn More
-        url: /features
+      - label: lorem-ipsum
+        url: lorem-ipsum
         style: primary
-    has_background: true
-    background_color: gray
+        new_window: true
+        type: action
+    has_background: false
+    background_color: white
+    type: cta_section
 template: advanced
 ---
