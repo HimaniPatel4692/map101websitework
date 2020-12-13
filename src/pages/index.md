@@ -8,12 +8,9 @@ sections:
       make it most natural coffee beans moreover our food are grown by organic
       farming so no other fertilizers used by farmers.
     actions:
-      - label: Learn More
+      - label: Read More
         url: /value-proposition
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/coffee_shop_sign.jpg
     image_position: right
@@ -35,7 +32,7 @@ sections:
         image: images/20190529191242-GettyImages-753289793.jpeg
         image_position: right
         actions:
-          - label: Learn More
+          - label: Read More
             url: /vision
             style: secondary
       - title: Strategies
@@ -54,7 +51,7 @@ sections:
         align: left
         image_position: right
         actions:
-          - label: Learn More
+          - label: Read More
             url: /Strategies
             style: secondary
         image: images/1.png
