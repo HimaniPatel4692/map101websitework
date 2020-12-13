@@ -29,8 +29,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "logo": "images/cool-cedar.jpg"
+        ]
     },
     "footer": {
         "has_nav": true,
