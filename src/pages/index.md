@@ -51,7 +51,7 @@ sections:
         align: left
         image_position: right
         actions:
-          - label: Learn More
+          - label: ' More'
             url: /Strategies
             style: secondary
         image: images/1.png
