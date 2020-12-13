@@ -32,7 +32,7 @@ sections:
         image: images/20190529191242-GettyImages-753289793.jpeg
         image_position: right
         actions:
-          - label: Learn More
+          - label: Read More
             url: /vision
             style: secondary
       - title: Strategies
