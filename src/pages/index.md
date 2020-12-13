@@ -11,9 +11,6 @@ sections:
       - label: Learn More
         url: /value-proposition
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/coffee_shop_sign.jpg
     image_position: right
