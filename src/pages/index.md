@@ -8,7 +8,7 @@ sections:
       make it most natural coffee beans moreover our food are grown by organic
       farming so no other fertilizers used by farmers.
     actions:
-      - label: Learn More
+      - label: Read More
         url: /value-proposition
         style: primary
     align: left
