@@ -69,7 +69,7 @@ sections:
         image_position: left
         actions:
           - label: Read More
-            url: /risk
+            url: /ri
             style: link
             new_window: false
             type: action
