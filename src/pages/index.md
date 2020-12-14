@@ -59,7 +59,7 @@ sections:
     features:
       - title: ''
         content: |+
-          > **Inadequate capital** 
+          > **Inadequate capital **
 
           > **Reputation management **
 
