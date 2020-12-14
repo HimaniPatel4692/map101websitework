@@ -3,9 +3,5 @@ title: Finance
 excerpt: ''
 template: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+**Forecast**
+We plan to grow as shown in the chart below, taken from our sales forecast. We aim to maintain an industry-standard 60% gross profit margin and reasonable operating expenses, and to produce reasonable profits in the second and third year.
