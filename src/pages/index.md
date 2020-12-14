@@ -90,9 +90,14 @@ sections:
           compulsory. 
         align: left
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
         type: feature
-        image: images/risk.jpg
+        image: images/images.jpg
     type: features_section
 template: advanced
 ---
