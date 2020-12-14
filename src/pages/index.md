@@ -55,7 +55,6 @@ sections:
             url: /Strategies
             style: secondary
         image: images/1.png
-  - type: contact_section
   - title: lorem-ipsum
     show_recent: false
     recent_count: 0
