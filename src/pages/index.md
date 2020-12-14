@@ -92,6 +92,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/risk.jpg
     type: features_section
 template: advanced
 ---
