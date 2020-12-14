@@ -55,11 +55,5 @@ sections:
             url: /Strategies
             style: secondary
         image: images/1.png
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
 template: advanced
 ---
