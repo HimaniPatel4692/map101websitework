@@ -59,7 +59,7 @@ sections:
     features:
       - title: ''
         content: >
-          **Inadequate capital** is one of the major risk factor for a new
+          > **Inadequate capital** is one of the major risk factor for a new
           venture because it is hard to assume estimate for daily cash flow. As
           we are new in market, we have uncertain daily income and it is
           difficult to manage monthly costs for business.
@@ -69,7 +69,8 @@ sections:
           bills, staff salary, raw material for food. This will help if we are
           unable to make profit for 3-4 months.
 
-          **Reputation management** is another risk factor for a start-up
+
+          > **Reputation management** is another risk factor for a start-up
           venture, because we have to deal with many competitors in market. Food
           quality, Food safety bad reviews, waiting time, price and employee's
           behavior can be important factor to deal with.
@@ -80,6 +81,7 @@ sections:
           with each and every customer, ensure all employees have to follow all
           food safety procedures never serve expired food and make sure to track
           the temperature of food storage.  
+
 
           > **Injuries and Liabilities** are another risk factor for a business.
           If someone get injured in cafe, we might face liability claims - to
