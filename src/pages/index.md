@@ -66,8 +66,5 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-  - title: lorem-ipsum
-    team: []
-    type: team_section
 template: advanced
 ---
