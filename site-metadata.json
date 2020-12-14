@@ -19,7 +19,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/coffee club Gladstone.jpg"
     },
     "footer": {
         "has_nav": true,
