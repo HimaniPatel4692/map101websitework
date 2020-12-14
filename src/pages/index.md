@@ -55,5 +55,6 @@ sections:
             url: /Strategies
             style: secondary
         image: images/1.png
+  - type: contact_section
 template: advanced
 ---
