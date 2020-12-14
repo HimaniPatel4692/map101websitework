@@ -68,7 +68,7 @@ sections:
         align: left
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Read More
             url: lorem-ipsum
             style: link
             new_window: false
