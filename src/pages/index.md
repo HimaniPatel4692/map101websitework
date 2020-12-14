@@ -97,7 +97,7 @@ sections:
             new_window: false
             type: action
         type: feature
-        image: images/risk.jpg
+        image: images/images.jpg
     type: features_section
 template: advanced
 ---
