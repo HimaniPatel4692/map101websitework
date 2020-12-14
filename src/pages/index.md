@@ -55,7 +55,7 @@ sections:
             url: /Strategies
             style: secondary
         image: images/1.png
-  - title: Business Risk
+  - title: Risk
     features:
       - title: lorem-ipsum
         content: >-
