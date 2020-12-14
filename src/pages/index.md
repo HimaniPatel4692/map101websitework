@@ -57,7 +57,7 @@ sections:
         image: images/1.png
   - title: Risk for Business
     features:
-      - title: lorem-ipsum
+      - title: ''
         content: >-
           ## Lorem ipsum
 
