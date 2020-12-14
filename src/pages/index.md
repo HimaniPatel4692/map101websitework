@@ -55,5 +55,8 @@ sections:
             url: /Strategies
             style: secondary
         image: images/1.png
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 template: advanced
 ---
