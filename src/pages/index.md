@@ -69,7 +69,7 @@ sections:
         image_position: left
         actions:
           - label: Read More
-            url: /eisk
+            url: /risk
             style: link
             new_window: false
             type: action
