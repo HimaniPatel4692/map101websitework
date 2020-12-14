@@ -1,5 +1,5 @@
 ---
-title: Finance
+title: Financial Plan
 excerpt: ''
 template: page
 ---
