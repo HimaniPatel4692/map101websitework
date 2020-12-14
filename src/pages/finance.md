@@ -1,6 +1,6 @@
 ---
 title: Finance
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum
