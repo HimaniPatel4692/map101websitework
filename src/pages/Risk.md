@@ -1,5 +1,5 @@
 ---
-title: /risk
+title: ''
 excerpt: ''
 template: page
 ---
